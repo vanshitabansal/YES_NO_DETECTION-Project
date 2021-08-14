@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YES_NO_DETECTOR", "YES_NO_DETECTOR\YES_NO_DETECTOR.vcxproj", "{67A3D2C9-21BA-4232-8152-9F32D66CBA1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A3D2C9-21BA-4232-8152-9F32D66CBA1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67A3D2C9-21BA-4232-8152-9F32D66CBA1D}.Debug|Win32.Build.0 = Debug|Win32
+		{67A3D2C9-21BA-4232-8152-9F32D66CBA1D}.Release|Win32.ActiveCfg = Release|Win32
+		{67A3D2C9-21BA-4232-8152-9F32D66CBA1D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
